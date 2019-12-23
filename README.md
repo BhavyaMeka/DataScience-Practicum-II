@@ -15,22 +15,22 @@ A 1D CNN is very effective for deriving features from a fixed-length segment o
 
 # 1D CNN Model
 
-![1D CNN model](/images/cnn.jpg)
+![1D CNN model](/cnn.jpg)
 
 LSTMs are quite popular in dealing with text based data, and has been quite successful in sentiment analysis, language translation and text generation. Since this problem also involves a sequence of similar sorts, an LSTM is a great candidate to be tried.
 
 # LSTM Model
 
-![LSTM model](/images/lstm.jpg)
+![LSTM model](/lstm.jpg)
 
 # Summary
 From the project it can be concluded that 1D CNN had better accuracy performance(%) than LSTM model (%). Improve by tuning of model hyperparameters such as the number of units, training epochs, batch size, and more. In the future hybrids of CNNs and LSTMS such as the CNN-LSTM and the ConvLSTM can be explored further in improving the accuracy.
 
 # Confusion Matrix
 
-![Confusion Matrix](/images/cm.jpg)
+![Confusion Matrix](/cm.jpg)
 
-![Confusion Matrix](/images/cm2.jpg)
+![Confusion Matrix](/cm2.jpg)
 
 
 Data used for exploratory purpose

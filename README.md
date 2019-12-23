@@ -28,9 +28,9 @@ From the project it can be concluded that 1D CNN had better accuracy performance
 
 # Confusion Matrix
 
-![Confusion Matrix](/cm.jpg)
+![Confusion Matrix](/CM.jpg)
 
-![Confusion Matrix](/cm2.jpg)
+![Confusion Matrix](/cm 2.jpg)
 
 
 Data used for exploratory purpose

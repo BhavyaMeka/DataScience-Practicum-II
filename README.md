@@ -17,3 +17,6 @@ LSTMs are quite popular in dealing with text based data, and has been quite suc
 
 # Summary
 From the project it can be concluded that 1D CNN had better accuracy performance(%) than LSTM model (%). Improve by tuning of model hyperparameters such as the number of units, training epochs, batch size, and more. In the future hybrids of CNNs and LSTMS such as the CNN-LSTM and the ConvLSTM can be explored further in improving the accuracy.
+
+Data used for exploratory purpose
+uci_raw_data: https://drive.google.com/open?id=18QdeKf_BgEEFQHDbTjQ8_YJJgQYeW9oA
